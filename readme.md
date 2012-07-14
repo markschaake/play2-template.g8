@@ -1,0 +1,1 @@
+My template for new play2 projects
